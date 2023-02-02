@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#files
+mice_lifespan_plus_score.ipynb
+
 # Distribution / packaging
 .Python
 build/
