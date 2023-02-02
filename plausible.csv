@@ -1,0 +1,16 @@
+,Name,Plausibility,n,Pvalue,Brier,R2
+1,Curcumin control,6.2,50,0.36,0.996,0.9795
+2,Curcumin experiment,13.0,50,0.71,0.9977,0.9902
+3,Berberine control,9.8,22,0.58,0.9951,0.9711
+4,Berberine experiment,8.1,22,0.49,0.9948,0.9544
+5,Sirtuin control,14.7,52,0.76,0.9985,0.9866
+6,Sirtuin experiment,12.7,51,0.7,0.9986,0.9861
+7,Rapamycin control,15.7,18,0.8,0.9948,0.9688
+8,Rapamycin experiment,10.6,17,0.62,0.9938,0.9585
+9,Keto control,5.5,61,0.3,0.9976,0.9775
+10,Rapamycin2 control,11.9,40,0.67,0.9975,0.9757
+11,Diet control,43.5,14,1.0,0.9966,0.9872
+12,AKG control,26.8,24,0.95,0.998,0.9884
+13,Frailty control,15.0,24,0.78,0.997,0.9801
+14,Uniform Dummy data,5.5,50,0.3,0.9968,0.97
+15,Weibull Dummy data,19.7,50,0.98,0.999,0.9899
