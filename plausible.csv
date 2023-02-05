@@ -12,5 +12,5 @@
 11,Diet control,43.5,14,1.0,0.9966,0.9872
 12,AKG control,26.8,24,0.95,0.998,0.9884
 13,Frailty control,15.0,24,0.78,0.997,0.9801
-14,Uniform Dummy data,5.5,50,0.3,0.9968,0.97
-15,Weibull Dummy data,19.7,50,0.98,0.999,0.9899
+14,Uniform Dummy data,5.6,50,0.22,0.9967,0.97
+15,Weibull Dummy data,18.7,50,0.78,0.9988,0.9891
