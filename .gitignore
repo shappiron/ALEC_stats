@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+# folders
+draft/
+legacy/
 
 #files
 mice_lifespan_plus_score.ipynb
